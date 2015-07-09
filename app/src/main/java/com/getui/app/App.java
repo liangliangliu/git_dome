@@ -10,6 +10,8 @@ public class App
     {
         System.out.println( "Hello World ni hao wo hao de hahha   zuixin!" );
         System.out.println( "Hello World ni hao wo hao de hahha   zuixin!" );
-        System.out.println( "wo de xin" );
+        System.out.println( "wo de xin zai yi ci " );
+        
+        
     }
 }
